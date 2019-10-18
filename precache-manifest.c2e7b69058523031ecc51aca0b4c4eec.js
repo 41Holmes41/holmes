@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70f310668b7bfc91f13e90d3939db44a",
+    "revision": "273c7fc78464c458d932e17344567ad1",
     "url": "/holmes/index.html"
   },
   {
-    "revision": "e97098de751692e1dbee",
-    "url": "/holmes/static/css/main.fd21bd2d.chunk.css"
+    "revision": "0c600cf2a93c11cd5477",
+    "url": "/holmes/static/css/main.2a8db7fc.chunk.css"
   },
   {
     "revision": "d1d48227ee3ac4aa8e5a",
     "url": "/holmes/static/js/2.475367f1.chunk.js"
   },
   {
-    "revision": "e97098de751692e1dbee",
-    "url": "/holmes/static/js/main.717b0691.chunk.js"
+    "revision": "0c600cf2a93c11cd5477",
+    "url": "/holmes/static/js/main.0bd0c1d8.chunk.js"
   },
   {
     "revision": "413c5b2a1face5c593fd",

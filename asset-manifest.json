@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/holmes/static/css/main.fd21bd2d.chunk.css",
-    "main.js": "/holmes/static/js/main.717b0691.chunk.js",
-    "main.js.map": "/holmes/static/js/main.717b0691.chunk.js.map",
+    "main.css": "/holmes/static/css/main.2a8db7fc.chunk.css",
+    "main.js": "/holmes/static/js/main.0bd0c1d8.chunk.js",
+    "main.js.map": "/holmes/static/js/main.0bd0c1d8.chunk.js.map",
     "runtime-main.js": "/holmes/static/js/runtime-main.6ce74ef6.js",
     "runtime-main.js.map": "/holmes/static/js/runtime-main.6ce74ef6.js.map",
     "static/js/2.475367f1.chunk.js": "/holmes/static/js/2.475367f1.chunk.js",
     "static/js/2.475367f1.chunk.js.map": "/holmes/static/js/2.475367f1.chunk.js.map",
     "index.html": "/holmes/index.html",
-    "precache-manifest.8c44426b8a72ac7a52800160ffde5317.js": "/holmes/precache-manifest.8c44426b8a72ac7a52800160ffde5317.js",
+    "precache-manifest.c2e7b69058523031ecc51aca0b4c4eec.js": "/holmes/precache-manifest.c2e7b69058523031ecc51aca0b4c4eec.js",
     "service-worker.js": "/holmes/service-worker.js",
-    "static/css/main.fd21bd2d.chunk.css.map": "/holmes/static/css/main.fd21bd2d.chunk.css.map"
+    "static/css/main.2a8db7fc.chunk.css.map": "/holmes/static/css/main.2a8db7fc.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.6ce74ef6.js",
     "static/js/2.475367f1.chunk.js",
-    "static/css/main.fd21bd2d.chunk.css",
-    "static/js/main.717b0691.chunk.js"
+    "static/css/main.2a8db7fc.chunk.css",
+    "static/js/main.0bd0c1d8.chunk.js"
   ]
 }
