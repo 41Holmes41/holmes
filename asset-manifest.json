@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/41Holmes41/holmes.git/static/css/main.da7817e3.chunk.css",
+    "main.js": "/41Holmes41/holmes.git/static/js/main.bfa3c425.chunk.js",
+    "main.js.map": "/41Holmes41/holmes.git/static/js/main.bfa3c425.chunk.js.map",
+    "runtime-main.js": "/41Holmes41/holmes.git/static/js/runtime-main.505b8a01.js",
+    "runtime-main.js.map": "/41Holmes41/holmes.git/static/js/runtime-main.505b8a01.js.map",
+    "static/js/2.475367f1.chunk.js": "/41Holmes41/holmes.git/static/js/2.475367f1.chunk.js",
+    "static/js/2.475367f1.chunk.js.map": "/41Holmes41/holmes.git/static/js/2.475367f1.chunk.js.map",
+    "index.html": "/41Holmes41/holmes.git/index.html",
+    "precache-manifest.027a5cff9109f2bcc91825c1db823295.js": "/41Holmes41/holmes.git/precache-manifest.027a5cff9109f2bcc91825c1db823295.js",
+    "service-worker.js": "/41Holmes41/holmes.git/service-worker.js",
+    "static/css/main.da7817e3.chunk.css.map": "/41Holmes41/holmes.git/static/css/main.da7817e3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505b8a01.js",
+    "static/js/2.475367f1.chunk.js",
+    "static/css/main.da7817e3.chunk.css",
+    "static/js/main.bfa3c425.chunk.js"
+  ]
+}
